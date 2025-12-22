@@ -24,23 +24,30 @@ Primary goals: zero missed payments, minimal manual intervention, clear audit tr
 
 ## 🔍 Quick Status & Next Actions
 
+### Credit Cards
+
 | Account | Autopay | Pay From (Last 4) | Bank | Draft Date | Status | Next Action |
 |---|---:|---|---|---|---|---|
-| Capital One QuicksilverOne | ⚠️ | TBD | TBD | 14th | ⚠️ Verify | Confirm autopay active |
 | Barclays View | ✅ | 1515 | Fidelity | 8 days before due | ⚠️ Alert | Call support |
-| Jasper Rent (Bilt) | ⚠️ | TBD | Bilt | TBD | ⚠️ Pending | Finish verification |
-| PNC Visa Card      | ⚠️ | TBD | TBD  | TBD | ⚠️ Pending | Finish verification |
-| Exxon Mobil (Citi Retail) | ⚠️ | 1515 | Fidelity | TBD | ⚠️ Pending | Complete verification |
-| NASA FCU Visa | ⚠️| TBD | TBD | N/A | ✅ $0 bal | None |
-| Discover | ✅ | 1515 | Fidelity | 10th | ✅ OK | None |
-| State Farm (Auto + Renters) | ✅ | Amex 6008 | American Express | 1st | ✅ OK | None |
-| Capital One Quicksilver | ✅ | 1515 | Fidelity | 8th | ✅ OK | None |
+| PNC Visa Card      | ⚠️ | 1515 | Fidelity | TBD | ⚠️ Pending | Finish verification |
+| Exxon Mobil (Citi) | ⚠️ | 1515 | Fidelity | TBD | ⚠️ Pending | Finish verification |
+| NASA FCU Visa      | ⚠️ | 1515 | Fidelity | TBD | ⚠️ Pending | Finish verification |
 | Amex Platinum | ✅ | 1515 | Fidelity | 15 days post-close | ✅ OK | None |
-| Verizon Fios | ✅ | 1515 | Fidelity | 8th | ✅ OK | None |
-| Dominion Energy | ✅ | 1515 | Fidelity | Due date | ✅ OK | Monitor first bill |
+| CapitalOne Quicksilver One 6062 | ✅ | 1515 | Fidelity | 14th | ✅ OK | None |
+| CapitalOne Quicksilver | ✅ | 1515 | Fidelity | 8th | ✅ OK | None |8th | ✅ OK | None |
+| Discover | ✅ | 1515 | Fidelity | 10th | ✅ OK | None |
 | Synchrony Amazon Store | ✅ | 1515 | Fidelity | 28th | ✅ OK | None |
 | Apple Card | ✅ | 1515 | Fidelity | 23rd | ✅ OK | None |
+
+### Monthly Bills
+
+| Account | Autopay | Pay From (Last 4) | Bank | Draft Date | Status | Next Action |
+|---|---:|---|---|---|---|---|
+| Jasper Rent (Bilt) | ⚠️ | 1515 | Fidelity | TBD | ⚠️ Pending | Finish verification |
+| Verizon Fios | ✅ | 1515 | Fidelity | 8th | ✅ OK | None |
+| Dominion Energy | ✅ | 1515 | Fidelity | Due date | ✅ OK | Monitor first bill |
 | Xfinity Mobile | ✅ | Amex 6008 | American Express | 1st | ✅ OK | None |
+| State Farm (Auto + Renters) | ✅ | Amex 6008 | American Express | 1st | ✅ OK | None |
 
 
 ---
