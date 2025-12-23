@@ -29,12 +29,12 @@ Primary goals: zero missed payments, minimal manual intervention, clear audit tr
 | Account | Autopay | Pay From (Last 4) | Bank | Draft Date | Status | Next Action |
 |---|---:|---|---|---|---|---|
 | Barclays View | ✅ | 1515 | Fidelity | 8 days before due | ⚠️ Alert | Call support |
-| PNC Visa Card      | ⚠️ | 1515 | Fidelity | TBD | ⚠️ Pending | Finish verification |
 | Exxon Mobil (Citi) | ⚠️ | 1515 | Fidelity | TBD | ⚠️ Pending | Finish verification |
 | NASA FCU Visa      | ⚠️ | 1515 | Fidelity | TBD | ⚠️ Pending | Finish verification |
 | Amex Platinum | ✅ | 1515 | Fidelity | 15 days post-close | ✅ OK | None |
 | CapitalOne Quicksilver One 6062 | ✅ | 1515 | Fidelity | 14th | ✅ OK | None |
 | CapitalOne Quicksilver | ✅ | 1515 | Fidelity | 8th | ✅ OK | None |8th | ✅ OK | None |
+| PNC Visa Card      | ✅| 1515 | Fidelity | 2nd | ✅ OK  | None |
 | Discover | ✅ | 1515 | Fidelity | 10th | ✅ OK | None |
 | Synchrony Amazon Store | ✅ | 1515 | Fidelity | 28th | ✅ OK | None |
 | Apple Card | ✅ | 1515 | Fidelity | 23rd | ✅ OK | None |
@@ -56,7 +56,7 @@ Primary goals: zero missed payments, minimal manual intervention, clear audit tr
 
 - [ ] Jasper Rent — finish micro-deposit verification, enable autopay
 - [ ] Exxon Mobil — finish verification, confirm autopay behavior
-- [ ] PNC — confirm Fidelity CMA trial deposits
+- [X] PNC — confirm Fidelity CMA trial deposits
 - [ ] Capital One QuicksilverOne — verify autopay is active and linked to Fidelity
 - [ ] Barclays — resolve security alert, restore full access
 
